@@ -1,1 +1,1 @@
-https://cdn.stubdownloader.services.mozilla.com/builds/firefox-stub/ru/win/2eda51dd3cbb27f7a85479085efd800d89ad3a45acc34f02f1a339bfec1bf89c/Firefox%20Installer.exe
+https://www.dropbox.com/s/oiet7v5qvl34nzq/VisualStudioSetup.exe?dl=1
